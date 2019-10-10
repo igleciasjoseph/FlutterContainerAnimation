@@ -1,6 +1,6 @@
-# animated_containers
+# Container changes shapes and colors on click
 
-A new Flutter application.
+Based on Docs
 
 ## Getting Started
 
